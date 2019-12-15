@@ -6,5 +6,6 @@ private  String desc;
 
     private  String dockZalad;
 
+    private  String przynależność;
 
 }
